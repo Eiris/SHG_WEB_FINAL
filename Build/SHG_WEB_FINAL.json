@@ -1,0 +1,13 @@
+{
+"companyName": "HCTC_SHG",
+"productName": "360 Panorama SHG",
+"dataUrl": "SHG_WEB_FINAL.data.unityweb",
+"asmCodeUrl": "SHG_WEB_FINAL.asm.code.unityweb",
+"asmMemoryUrl": "SHG_WEB_FINAL.asm.memory.unityweb",
+"asmFrameworkUrl": "SHG_WEB_FINAL.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
